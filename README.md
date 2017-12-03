@@ -20,17 +20,17 @@ Support has not been added for the reconstruction process shown in the paper, th
 
 ## To Run
 Open the jupyter notebook and run all the cells.
-'''
+```bash
 $ jupyter notebook
-'''
+```
 Run all cells.
 
 ## To see visualizations
 Run the following command on your terminal / favourite shell/ powershell
 
-'''
+```bash
 $ tensorboard --logdir="/logs\_output\_1" --host=localhost
-'''
+```
 You can see the visuals on [localhost:6006](http://localhost:6006)
 
 ## Hyper Parameters & Results
