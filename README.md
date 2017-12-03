@@ -29,7 +29,7 @@ Run all cells.
 Run the following command on your terminal / favourite shell/ powershell
 
 ```bash
-$ tensorboard --logdir="/logs\_output\_1" --host=localhost
+$ tensorboard --logdir="/logs_output_1" --host=localhost
 ```
 You can see the visuals on [localhost:6006](http://localhost:6006)
 
