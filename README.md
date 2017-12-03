@@ -1,5 +1,5 @@
 # CapsuleNetworks-TensorFlow
-This is my implementation of Capsule Networks from this [paper](https://arxiv.org/abs/1710.09829). 
+This is my implementation of Capsule Networks from this paper [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829). 
 The entire source code is based on TensorFlow. I have put it in a jupyter notebook for easy reading. 
 
 ## The Network
