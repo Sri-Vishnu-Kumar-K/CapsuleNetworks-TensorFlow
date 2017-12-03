@@ -48,3 +48,4 @@ Feel free to email me on [srivishnukumar.k@gmail.com](mailto:srivishnukumar.k@gm
 I have referred to the following repositories for ideas and when I was stuck on implementation.
 * [naturomics](https://github.com/naturomics/CapsNet-Tensorflow)
 * [XifengGuo](https://github.com/XifengGuo/CapsNet-Keras)
+* I would like to thank [Siraj Raval](https://www.youtube.com/watch?v=VKoLGnq15RM) for introducing me tho Capsule Networks.
